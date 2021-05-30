@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/PrakharSrivastav/workers/b_concurrent/dispatcher"
+	"github.com/agbankar/go-worker-pool/dispatcher"
 	"time"
 )
 

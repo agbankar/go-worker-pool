@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/PrakharSrivastav/workers/b_concurrent/dispatcher"
-	"github.com/PrakharSrivastav/workers/b_concurrent/worker"
+	"github.com/agbankar/go-worker-pool/dispatcher"
+	"github.com/agbankar/go-worker-pool/worker"
 	"testing"
 	"time"
 )

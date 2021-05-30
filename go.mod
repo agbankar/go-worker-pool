@@ -1,3 +1,3 @@
-module github.com/PrakharSrivastav/workers
+module github.com/agbankar/go-worker-pool
 
-go 1.13
+go 1.16

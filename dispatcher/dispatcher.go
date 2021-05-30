@@ -2,7 +2,7 @@ package dispatcher
 
 import (
 	"fmt"
-	"github.com/PrakharSrivastav/workers/b_concurrent/worker"
+	"github.com/agbankar/go-worker-pool/worker"
 	"time"
 )
 

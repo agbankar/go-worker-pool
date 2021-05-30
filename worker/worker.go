@@ -56,7 +56,7 @@ func (wr *Worker) Start() {
 
 func (wr *Worker) WorkerProcess(job Job) {
 	fmt.Println("worker is processing the job", wr.ID)
-	time.Sleep(3 * time.Second)
+	time.Sleep(1 * time.Second)
 
 }
 
